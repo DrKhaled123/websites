@@ -230,7 +230,7 @@ Thumbs.db
 *~
 
 # Docker
-.dockerignore
+# .dockerignore should be committed to version control
 
 # Prisma
 prisma/migrations/
